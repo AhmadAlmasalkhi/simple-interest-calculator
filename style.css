@@ -1,4 +1,4 @@
-#body {background-color:  black;
+#body {background-image: radial-gradient(circle, #6b6bd1, #4887e3, #249feb, #27b4ec, #4ec8ea, #51d3ea, #5cdee8, #6ce8e4, #5beedd, #52f3d2, #53f7c3, #5ffbb0);  
     font-family:arial;
     color:black;
     align-items: center;
@@ -11,7 +11,7 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .maindiv {
-background-color:white;
+background-image: linear-gradient(to top, #22daa2, #16dbb8, #29dbc9, #45dad7, #62d9e1, #4bd3e9, #38ccf1, #30c4f8, #00b3ff, #009eff, #4e84ff, #8e5ffb);
 color:black;
 width:350px;
 padding:20px;

@@ -1,0 +1,36 @@
+#body {background-color:  black;
+    font-family:arial;
+    color:black;}
+
+
+h1{color:grey;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.maindiv {
+background-color:white;
+color:black;
+width:350px;
+padding:20px;
+border-radius:25px;
+position: absolute;
+top: 25%;
+line-height: 30px;
+margin: 0 auto;
+
+footer {
+    text-align: center;
+}
+
+#principal {
+border-radius: 20px;    
+}
+
+#years {
+border-radius: 10px;
+}
+
+#button {
+padding: 5px;
+border-radius: 10px;
+}

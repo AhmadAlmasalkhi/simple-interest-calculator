@@ -1,7 +1,9 @@
-#body {background-image: radial-gradient(circle, #6b6bd1, #4887e3, #249feb, #27b4ec, #4ec8ea, #51d3ea, #5cdee8, #6ce8e4, #5beedd, #52f3d2, #53f7c3, #5ffbb0);  
-    font-family:arial;
-    color:black;
-    align-items: center;
+#body { 
+    /* background-image: radial-gradient(circle, #6b6bd1, #4887e3, #249feb, #27b4ec, #4ec8ea, #51d3ea, #5cdee8, #6ce8e4, #5beedd, #52f3d2, #53f7c3, #5ffbb0);   */
+background: linear-gradient(90deg, #062464, #000000);
+font-family:arial;
+color:black;
+align-items: center;
 }
     
 
@@ -11,14 +13,25 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .maindiv {
-background-image: linear-gradient(to top, #22daa2, #16dbb8, #29dbc9, #45dad7, #62d9e1, #4bd3e9, #38ccf1, #30c4f8, #00b3ff, #009eff, #4e84ff, #8e5ffb);
-color:black;
+background: linear-gradient(90deg, #023b1a, #002661);
+color:#249feb;
 width:350px;
 padding:20px;
 border-radius:25px;
 line-height: 30px;
 margin: 20% auto;
 }
+
+input#principal {
+    background: linear-gradient(90deg, #141e30, #243b55);
+    color: #249feb;
+}
+
+select#years {
+    background: linear-gradient(90deg, #141e30, #243b55);
+    color: #249feb;
+}
+
 
 footer {
     text-align: center;

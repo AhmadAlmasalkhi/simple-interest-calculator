@@ -41,4 +41,4 @@ The application will then show you the results right below the button.
 
 * Ahmad Almasalkhi
 
-© This Calculator belongs to Ahmad Almasalkhi
+© This Calculator belongs to Ahmad Almasalkhi.
